@@ -1,0 +1,15 @@
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\bin\Debug\net6.0\calculator.exe
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\bin\Debug\net6.0\calculator.deps.json
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\bin\Debug\net6.0\calculator.dll
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\bin\Debug\net6.0\calculator.pdb
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\obj\Debug\net6.0\calculator.dll
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\obj\Debug\net6.0\refint\calculator.dll
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\obj\Debug\net6.0\calculator.pdb
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\calculator\obj\Debug\net6.0\ref\calculator.dll
