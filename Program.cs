@@ -41,10 +41,10 @@
         static void operation(string operation)
         {
             Console.WriteLine("Primeiro valor :");
-            double num1 = double.Parse(Console.ReadLine().Replace(".", ","));
+            double num1 = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Segundo valor :");
-            double num2 = double.Parse(Console.ReadLine().Replace(".", ","));
+            double num2 = double.Parse(Console.ReadLine());
 
             if (operation == "soma")
                 Console.WriteLine($"O resultado da soma é {num1 + num2}");
