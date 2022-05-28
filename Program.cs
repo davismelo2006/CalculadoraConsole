@@ -6,18 +6,18 @@
         {
             Console.Clear();
             Console.WriteLine("-------------Dev Calculator-------------");
-            showOptions();
+            menu();
 
             short option = short.Parse(Console.ReadLine());
             while (option != 0)
             {
                 selectOption(option);
-                showOptions();
+                menu();
                 option = short.Parse(Console.ReadLine());
             }
         }
 
-        static void showOptions()
+        static void menu()
         {
             Console.WriteLine("O que deseja fazer?");
             Console.WriteLine("1 - Soma");
